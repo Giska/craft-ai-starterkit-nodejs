@@ -49,6 +49,26 @@
             "children": [],
             "id": "b7a30249-bce3-46e0-a651-207cb0553f15",
             "type": "action"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "name": "Wait",
+              "inputParams": [
+                {
+                  "key": "time",
+                  "type": "integer",
+                  "value": "5"
+                }
+              ],
+              "outputParams": []
+            },
+            "children": [],
+            "id": "72e563fd-f915-4d63-a19b-b06f8aa855b4",
+            "type": "action"
           }
         ],
         "id": "a0ef3783-880b-4a30-8b5b-789981743993",
